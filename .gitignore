@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+Thumbs.db
+# Dev tings #
+node_modules/*
+.vscode
+# IDE - VSCode
+.vscode/*
+*.log
